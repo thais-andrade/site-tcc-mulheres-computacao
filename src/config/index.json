@@ -1,0 +1,260 @@
+{
+  "company": {
+    "name": "Mulheres Computação UFMG",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Contexto",
+      "href": "context",
+      "scroll": true
+    },
+    {
+      "name": "Sobre",
+      "href": "sobre",
+      "scroll": true
+    },
+    {
+      "name": "Resultados",
+      "href": "result",
+      "scroll": true
+    }
+  ],
+  "resultsNavigation": [
+    {
+      "name": "Início",
+      "href": "/",
+      "scroll": false
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "Presença feminina",
+    "subtitle": "na computação na UFMG",
+    "description": "Esse site tem como objetivo fornecer resultados de uma pesquisa de Trabalho de Conclusão de Curso realizado sobre o tema de analisar a presença feminina em cursos relacionados a computação na Universidade Federal de Minas Gerais",
+    "img": "/assets/images/women_tech.jpg"
+  },
+  "resultHero": {
+    "title": "Resultados",
+    "subtitle": "da pesquisa",
+    "description": "",
+    "img": "/assets/images/question.jpg"
+  },
+  "context": {
+    "title": "Contexto teórico",
+    "items": [
+      {
+        "title": "",
+        "description": "A presença das mulheres nas áreas STEM (ciência, tecnologia, engenharia e matemática) é notoriamente menor do que a dos homens. O relatório da UNESCO de 2018 revela que, no Brasil, as mulheres correspondem a apenas 17% das pessoas que trabalham na área de tecnologia. Essa realidade reflete um histórico de marginalização e de desigualdades de gênero no país. As primeiras universidades surgiram no Brasil no início do século XIX, mas a primeira mulher obteve diploma apenas em 1887, já no final do século. Além disso, a Constituição de 1988 foi a primeira a determinar direitos iguais a todos independente do sexo, apenas 100 anos depois, e apesar disso, a luta das mulheres para obterem seu espaço no meio acadêmico segue até a atualidade.",
+        "img": "/assets/images/context1.jpg"
+      },
+      {
+        "title": "",
+        "description": "Embora a marginalização das mulheres nas áreas STEM seja histórica, a realidade do curso de Ciência da Computação é um pouco diferente. Na época do surgimento do curso nas universidades, na década de 70, as turmas eram compostas majoritariamente por mulheres. Naquele momento, a Ciência da Computação era muito associada à Matemática, um curso que também tinha ampla participação feminina, considerando que muitas tornavam-se professoras - uma profissão associada ao estereótipo da mulher.",
+        "description2": "Entre as décadas de 70 e 80, iniciou-se o surgimento dos jogos digitais, que transformou a visibilidade do curso de Computação. Antes associado à Matemática, tornou-se símbolo de tecnologia, um âmbito mais associado aos homens socialmente. Com isso, a participação das mulheres na área foi reduzindo gradualmente, até chegarmos ao preocupante patamar de hoje. Caso a redução da participação feminina mantenha o mesmo ritmo nos próximos anos, ela se extinguirá em 2050.",
+        "img": "/assets/images/context2.png"
+      }
+    ]
+  },
+  "sobre": {
+    "title": "Projeto Orientado em Computação",
+    "subtitle": "Sobre a Pesquisa",
+    "description": "Diante do contexto apresentado e da minha posição atual de mulher graduanda de Ciência da Computação, que está iniciando essa jornada de tecnologia, a proposta desse projeto é analisar a realidade da participação feminina nos cursos da área de computação na Universidade Federal de Minas Gerais.",
+    "description2": "Após longo período de análise de estudos de casos aplicados em outras universidades, tanto no Brasil quanto no exterior, e do levantamento de hipóteses de causas para esse fenômeno de redução cada vez maior de mulheres na área na graduação, foi elaborada uma pesquisa a ser aplicada na UFMG. Essa seria realizada entre mulheres de cursos de graduação relacionados a Computação, englobando cursos relacionados a Ciência da Computação, Sistemas de Informação, Matemática Computacional e Engenharia de Sistemas, que tinha como objetivo entender as motivações para a entrada delas nesses cursos, quais desafios são encontrados ao longo do período de estudo e como eles as afetam, além da opinião que possuem acerca de propostas de ações para melhoria.",
+    "items": [
+      {
+        "name": "React.js",
+        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "Tailwind",
+        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
+        "icon": "/assets/images/tailwindcss.svg"
+      },
+      {
+        "name": "Next.js",
+        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
+        "icon": "/assets/images/nextjs.svg"
+      },
+      {
+        "name": "Typescript",
+        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
+        "icon": "/assets/images/ts.png"
+      }
+    ]
+  },
+  "result": {
+    "title": "Resultados",
+    "description": "A pesquisa realizada com alunas da Universidade Federal de Minas Gerais envolveu perguntas relacionadas ao conhecimento de computação prévio à entrada na faculdade, às motivações para a escolha do curso, a dúvidas e inseguranças no meio tecnológico acadêmico e a atividades que atuam/ poderiam atuar como contribuintes para um melhor ambiente feminino na área.",
+    "description2": "Ao final de algumas semanas de aplicação, foram obtidas 47 respostas, e os resultados foram analisados, comparados e apresentados em forma de gráficos para melhor visualização.",
+    "primaryAction": {
+      "text": "Confira os resultados",
+      "href": "teste.com"
+    },
+    "items": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "priceDetails": "for one user",
+        "features": [
+          "1 user",
+          "Basic Support",
+          "1 GB of storage",
+          "Email support"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "$15",
+        "priceDetails": "per user",
+
+        "features": [
+          "5 users",
+          "Priority Support",
+          "10 GB of storage",
+          "Phone and Email support"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "$29",
+        "priceDetails": "per user",
+        "features": [
+          "50 users",
+          "24/7 Support",
+          "100 GB of storage",
+          "Phone and Email support"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com/issaafalkattan",
+      "twitter": "https://twitter.com/issaafkattan",
+      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+    }
+  },
+  "graphics": {
+    "section1": "Conhecimento Prévio",
+    "section2": "Escolha Curso",
+    "section3": "Medos e Dúvidas",
+    "section4": "Desmotivação",
+    "section5": "Presença Mulheres",
+    "section6": "Projeto BitGirls",
+    "section7": "Ações de Melhoria",
+    "items": [
+      {
+        "title": "",
+        "description": "Essa análise busca entender se o curso relacionado à computação pode influenciar no conhecimento da área antes da entrada na faculdade. Isso pode ser influenciado também pela amostra obtida, mas, pelos resultados gerados, podemos observar que há um maior equilíbrio nos cursos de Engenharia de Sistemas e Sistemas de Informação, em que as alunas são uniformemente distribuídas entre ter ou não esse conhecimento prévio, enquanto o curso de Ciência da Computação foi o mais divergente, com uma quantidade de alunas sem conhecimento prévio equivalente a mais de 1,5x a quantidade que possui.",
+        "img": "/assets/images/graphics/curso_conhecimentoPrevio.png"
+      },
+      {
+        "title": "",
+        "description": "Buscando entender as origens do conhecimento relacionado ao curso antes da entrada na faculdade, é possível identificar que as duas maiores causas, e com uma grande diferença das demais, são Curiosidade e Busca Própria e Curso Técnico, o que mostra que tarefas realizadas de forma mais independente pelas alunas foram mais aproveitadas nessa oferta de conteúdo no período ainda da escola.",
+        "img": "/assets/images/graphics/origemConhecimentoPrevio.png"
+      },
+      {
+        "title": "",
+        "description": "Ainda no entendimento do conhecimento prévio à faculdade, foi analisado o quanto esse conteúdo impactou no progresso do curso. Os resultados mostram que mais de 85% das alunas afirmam que foi gerado um impacto, mas em sua maioria foi apenas durante o início do curso, momento em que as matérias ainda são muito novas e que ainda não houve tanto tempo de adaptação e de prática externa. Isso mostra um bom campo de atuação para tornar mais tranquila essa fase inicial do curso, promovendo opções de estudos prévios para pessoas interessadas.",
+        "img": "/assets/images/graphics/impactoConhecimentoPrevio.png"
+      },
+      {
+        "title": "",
+        "description": "Partindo para uma análise sobre a escolha do curso de computação, a pesquisa buscou entender quais as principais razões que guiaram essa decisão, de modo que as 4 mais frequentes e com maior distância das demais foram: Interesse pela área tecnológica, por jogos e programas (gosto pela área do curso já no geral), afinidade com exatas (visão de cursos muito voltados para a matemática), boas oportunidades de emprego e amplo mercado de trabalho (conhecimento e preocupação com os resultados futuros). Esses dados mostram que a escolha do curso é muito relacionada com similaridades de gostos durante a escola com o conteúdo que acreditam terem foco na faculdade, além de já terem uma visão de planejamento e desejo de uma vida estável profissionalmente e financeiramente.",
+        "img": "/assets/images/graphics/razaoEscolhaCurso.png"
+      },
+      {
+        "title": "",
+        "description": "Quase 90% das alunas participantes responderam que tiveram medos ou dúvidas relacionadas à escolha do curso antes de entrar, demonstrando que a incerteza desse campo para as mulheres, principalmente, costuma ser bem grande, o que faz com que muitas desistam antes de terem um contato mais próximo, com receio do que o futuro pode esperar.",
+        "img": "/assets/images/graphics/terMedosDuvidas.png"
+      },
+      {
+        "title": "",
+        "description": "Os 3 principais motivos para a ocorrência de medos ou dúvidas antes do início do curso envolvem a questão de ser mulher nesse meio. O conhecimento comum da baixa presença feminina nos cursos e no mercado promovem um sentimento de solidão, falta de apoio e comparação. E essa sensação ainda é evidenciada pela presença de preconceito com mulheres na TI, que ainda promovem uma falta de reconhecimento e um tratamento inferior. Além disso, motivos relacionados à dificuldade do curso também são bastante presentes, que traz inseguranças sobre ser capaz de conseguir e sobre a necessidade ou não de já precisar saber sobre o assunto antes de começar.",
+        "img": "/assets/images/graphics/motivosMedosDuvidas.png"
+      },
+      {
+        "title": "",
+        "description": "Mais da metade das alunas já se sentiram desmotivadas em algum momento ao longo do curso, sejam por matérias, clima da sala de aula, outras pessoas ou desilusão com a faculdade. Isso pode muitas vezes trazer ainda mais inseguraças com relação à escolha tomada sobre o caminho profissional a seguir e ainda causar desistências, seja de abandono ou de transferência para outras opções.",
+        "img": "/assets/images/graphics/terDesmotivacao.png"
+      },
+      {
+        "title": "",
+        "description": "Entre os fatores mais presentes de desmotivação ao longo do curso, podemos citar a comparação com o desempenho de colegas e o sentimento de incapacidade de realizar certas disciplinas. Isso é muito relacionado com a dificuldade já conhecida dos cursos da área e pela grande presença de conteúdos direcionados à matemática. Além disso, a grande comparação com os reusltados e o conhecimento de outros colegas em sala, principalmente homens, que pode acabar sendo influenciado por atitudes de professores, por exemplo, acaba evidenciando essa sensação ainda mais, contribuindo para um ambiente sem muito incentivo para a continuidade da mulher.",
+        "img": "/assets/images/graphics/fatorDesmotivacao.png"
+      },
+      {
+        "title": "",
+        "description": "Fazendo uma análise da quantidade de alunas desmotivadas por período que estão cursando, podemos observar que o início do curso é relativamente tranquilo, por ser um momento em que tudo é ainda muito novo, com desafios mas ainda de forma mais interessante e sem ainda tanto contato com o lado mais comparativo. Entretanto, já no meio do curso é o pior momento, com maior presença de alunas desmotivadas, sendo um momento em que já é possível ter um maior conhecimento dos conteúdos, mas que a forma que são dados e a relação com as outras pessoas na sala influenciam bastante. Após essa fase há uma nova queda para uma grande subida no final, momento em que a maioria dos alunos já está bem cansado da rotina do curso, com menos opções de matéria para seguir, muitas vezes já trabalhando, e que é um momento essencial para promover ações de incentivo.",
+        "img": "/assets/images/graphics/desmotivacao_periodo.png"
+      },
+      {
+        "title": "",
+        "description": "Por fim, ainda em relação a essa desmotivação citada, quando filtramos a questão das disciplinas cursadas e buscamos entender se há algumas que contribuem mais para a motivação, a categoria com uma quantidade mais distoante é a de Matemática. Ocupando um grande resultado na pesquisa, essa área é a maior responsável pela motivação das alunas, podendo ser analisado se há formas de atrair mais e de tornar mais acolhedor.",
+        "img": "/assets/images/graphics/disciplinasDesmotivacao.png"
+      },
+      {
+        "title": "",
+        "description": "Já é de conhecimento geral a baixa presença feminina nos cursos de computação nas faculdades. A pesquisa mostrou que em 66% dos casos, as mulheres ocupam cerca de 10-20% das turmas, o que é um valor extremamente baixo. Ainda há uma grande porcentagem (quase 20%) de casos com até menos de 10%, o que é ainda mais preocupante, e nenhum caso a mais que 50%. A quantidade de mulheres na graduação de computação sofreu grandes variações ao longo das décadas, mas já há bastante tempo que ocupa uma parcela bem pouco representativa e que há muito espaço para mudanças.",
+        "img": "/assets/images/graphics/porcentagemMulheres.png"
+      },
+      {
+        "title": "",
+        "description": "Em relação ao impacto que essa quantidade de mulheres teve ao longo do curso para as alunas participantes, podemos notar que quase metade afirma não ter tido impacto nenhum. Entretanto, cerca de 30% afirma ter sido impactada durante boa parte do curso e cerca de 1 quarto afirma ter sido impactada apenas no início do curso. Portanto, ainda podemos ver que é uma grande quantidade de pessoas que podem ser atingidas indiretamente com a baixa entrada e permanência de mulheres nos cursos de computação.",
+        "img": "/assets/images/graphics/impactoMulheres.png"
+      },
+      {
+        "title": "",
+        "description": "Outro fator bastante relevante em relação à representatividade feminina nos cursos de gradução de computação é a ocorrência de preconceito pelo simples fato de ser mulher. Infelizmente, 36% das alunas informaram já terem vivenciado ou presenciado algum caso de preconceito ao longo do curso pelo seu gênero. Isso pode ser proveniente de outros alunos ou até mesmo de professores, o que contribui para o ambiente desconfortável e prejudica ainda mais o desempenho e a motivação de mulheres na área.",
+        "img": "/assets/images/graphics/preconceitoMulher.png"
+      },
+      {
+        "title": "",
+        "description": "O projeto BitGirls é uma iniciativa de mulheres na UFMG que busca promover um maior equilíbrio de gênero nos cursos de computação na faculdade, principalmente, por meio da realização de eventos, estudo do perfil atual das estudantes na UFMG e divulgação de um material de divulgação da área. Entretanto, o projeto não é tão conhecido pelas alunas, como mostrado na pesquisa, de modo que mais de 40% das participantes nunca ouviram falar sobre a iniciativa.",
+        "img": "/assets/images/graphics/conhecimentoBitGirls.png"
+      },
+      {
+        "title": "",
+        "description": "Continuando nesse tópico, a participação em alguma ação do projeto também é muito baixa, de modo que apenas 14% das alunas entrevistadas já estiveram envolvidas em algum momento com o projeto. Além disso, mais de 48% afirma que não participou por falta de conhecimento ou informação sobre as atividades, de modo que é um grande ponto de atuação para melhoria desse cenário.",
+        "img": "/assets/images/graphics/participacaoBitGirls.png"
+      },
+      {
+        "title": "",
+        "description": "Por fim, apenas 1 terço das participantes que já participaram de algum evento do projeto afirmaram terem sido impactadas na sua motivação no curso. Assim, é possível concluir que a maior iniciativa presente hoje relacionada ao assunto na faculade é muito pouco efetiva em sua ação, precisando ser melhor divulgada e ser mais ativa em ações que podem melhorar bastante o cenário da mulher nos cursos de computação an faculdade, podendo promover um ambiente mais acolhedor e agradável para essa jornada de anos da faculdade, sendo um espaço de apoio para as meninas que iniciam esse processo.",
+        "img": "/assets/images/graphics/impactoBitGirls.png"
+      },
+      {
+        "title": "",
+        "description": "A última seção da pesquisa envolveu possíveis ações de melhoria para um entendimento de como as alunas participantes acreditavam que o cenário atual da presença feminina nos curso de computação poderia melhorar, tanto envolvendo a atração de novas pessoas para o curso, quanto de modo a atuar no acolhimento e apoio para as já estudantes do curso. As 5 ações que foram eleitas mais benéficas foram: Realização de Atividaes de Atração em Escolas, que envolve promover um conhecimento sobre o curso e sobre as oportunidades de futuro em escolas para que masi pessoas tenham essas informações antes de entrar no curso e possam ser incentivadas; Presença de Professoras Mentoras, de modo que professoras de disciplinas do curso que estão envolvidas com computação possam oferecer um papel de mentora para alunas, de modo a compartilhar suas experiências, auxiliar nas dúvidas e indecisões; Compartilhamento de Experiência no Mercado de Trabalho, em que profissionais da área possam contar de forma um pouco mais prática as possibilidades de caminho a se seguir e as atividades de dia a dia para a área; Mais Professoras Mulheres, promovendo um incentivo pelo exemplo, de modo que as alunas consigam conviver com profissionais mulheres bem sucedidas da área e sejam motivadas pela atuação de mulheres como guias de seu conhecimento; Equidade de Gênero no Tratamento de Professores, em que os docentes tomem mais cuidado com atitudes tomadas em sala de aula e incentivem esse tratamento mais igualitário entre os alunos.",
+        "img": "/assets/images/graphics/beneficioAcoes.png"
+      }
+    ]
+  }
+}
